@@ -1,4 +1,4 @@
 # apnacollege-demo
-learning git&amp;github from youtube.
+learning git&github from youtube.
 <br>
-Author - Nimra Tayyaba
+Author - Nimra Tayyaba(apna college)
